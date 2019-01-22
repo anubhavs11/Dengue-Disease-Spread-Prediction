@@ -1,1 +1,1 @@
-# Dengue-Desease-Spread-Prediction
+# Dengue-Disease-Spread-Prediction
